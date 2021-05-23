@@ -1,5 +1,5 @@
 # PyBer_Analysis
-#【PyBer_Challenge】(PyBer_Challenge.ipynb)
+【PyBer_Challenge】(PyBer_Challenge.ipynb)
 
 # Overview of the Analysis:
 ## The purpose of the project was to design and analyze data for PyBer Company to calculate metrics about the total weekly fares for each city type (Urban, Suburban, Rural). In this project, there are different variables such as total rides, total drivers, total fares, average fare per ride and driver for each of the respective city types. Then I created new data frame that includes the average fare per week from 2019.01.01 to 2019.04.29. Finanlly, I create a plot which shows the average fare price of three different type.
@@ -7,7 +7,7 @@
 
 # Results:
 ## Summary DataFrame 
-![PyBer_Summary] (analysis/PyBer_Summary.png)
+![PyBer_Summary](analysis/PyBer_Summary.png)
 
 ### From this summary, we could see that there are the most amount of rides and drivers in urban area, and there are least in rural area. In the Total Fares, we could find urban area brings the most revenue, and rural areas brings least. However, for the Average Fare per Ride and Average Fare per Driver, the data in rural area are higher than urban.
 
